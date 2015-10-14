@@ -1,12 +1,7 @@
-Decrypto
-========
+**Description**  
+Cryptography in Python.  
 
-Contains basic text encryption/decryption
+Algorithms included -:   
+ - MD5  
+ - ROT13  
 
----------------
-* MD5
-* SHA1
-* ROT13
-* XOR
-
----------------
