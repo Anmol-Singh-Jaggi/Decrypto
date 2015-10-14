@@ -1,4 +1,4 @@
-decrypto
+Decrypto
 ========
 
 Contains basic text encryption/decryption
